@@ -1,3 +1,7 @@
 {
-    "python.pythonPath": "c:\\python\\djfull\\prod\\entvirt\\Scripts\\python.exe"
+    "python.pythonPath": "c:\\python\\djfull\\prod\\entvirt\\Scripts\\python.exe",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none"
 }
